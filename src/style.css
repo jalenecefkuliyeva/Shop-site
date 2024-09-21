@@ -1,0 +1,253 @@
+.light .header-one-main {
+    background-image: url("https://www.zirvestonegallery.com/Content/upload/products/AlbaChiara211020.jpg");
+    border-radius: 7px;
+    color: #000;
+}
+
+.dark .header-one-main {
+    background-color: #000000dc;
+    color: #fff;
+    border-radius: 6px;
+}
+
+.light *{
+    background-color: #fff;
+    color: #000000;
+    /* background-image: url("https://www.caesarstoneus.com/wp-content/uploads/2020/12/5151_Empira-White_CU_50x70-16X9-1.jpg"); */
+
+   
+}
+
+
+
+
+.dark *{
+    background-color: #000000;
+    color: #fff;
+    
+}
+
+.light .footer-main{
+    /* background-image: url("https://www.caesarstoneus.com/wp-content/uploads/2020/12/5151_Empira-White_CU_50x70-16X9-1.jpg"); */
+    background-color: #ffffff;
+    color: #000000;
+
+}
+.dark .footer-main{
+    background-color: #000;
+    color: #ffffff;
+
+}
+
+.light .footer-section{
+    background-color: #fff;
+    color: #000;
+}
+
+.dark .footer-section{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.light .header-one-btn {
+    color: #000;
+}
+
+.dark .header-one-btn {
+    color: #ffffff;
+}
+
+
+.light .header-two {
+    background-color: #fff;
+    
+
+}
+
+.dark .header-two {
+    background-color: #000000dc;
+    color: #fff;
+    border-radius: 6px;
+}
+
+.light .card-pull-bear {
+    background-color: #ffffffdc;
+    
+    color: #000000;
+    border: double #f8f8f8 5px;
+    box-shadow: 5px 5px 8px #000000;
+}
+
+.dark .card-pull-bear {
+    background-color: #000000dc;
+    color: #fff;
+    border: double #000000 5px;
+    box-shadow: 5px 5px 8px #ffffff;
+    border-radius: 18px;
+    
+}
+
+.light .header-three1 {
+    background-color: #fff;
+}
+
+.dark .header-three1 {
+    background-color: #000000dc;
+    border-radius: 8px;
+}
+.header-three1 {
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    flex-direction: row;
+    padding-left: 0;
+    justify-content: space-evenly;
+}
+
+.header-three1 li {
+    list-style: none;
+}
+
+.header-three1 li img {
+    width: 100%;
+    height: 12vh;
+    opacity: 1;
+    border-radius: 50px;
+}
+
+.header-three1 li:hover img {
+    border: solid 1px #f28232;
+}
+
+.header-three1 .sections p {
+    color: black;
+    transform: translateX(19px);
+    text-decoration: none;
+}
+
+.header-three1 li:hover p {
+    color: #f28232;
+}
+
+.footer-style {
+    background-color: black;
+    color: #f9f9f9;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+.images-one {
+    width: 50%;
+    height: 7vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.images-two {
+    width: 50%;
+    height: 10vh;
+    justify-content: space-evenly;
+}
+
+.images-three {
+    width: 50%;
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.images-four img {
+    width: 30%;
+    height: 14vh;
+}
+
+.nav-link {
+    color: #f9f9f9;
+}
+
+/* .header-one-img img {
+    width: 80%;
+    height: 8vh;
+} */
+
+
+.form {
+    width: 30%;
+}
+
+
+.navbar {
+    width: 100%;
+    height: 12vh;
+    display: flex;
+    flex-direction: row;
+    padding-left: 43px;
+    padding-right: 32px;
+}
+
+.header-two {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+    font-size: 15px;
+    color: #d4681b;
+}
+
+.card-pull-bear {
+    border-radius: 18px;
+}
+
+
+.salam{
+    background-color: #000000e0;
+    color: #fff5f5;
+    border-radius: 4px;
+    text-decoration: none;
+    width: 40%;
+    height: 9vh;
+    border: none;
+    transform: translate(200px, -7px);
+    opacity: 1;
+}
+
+
+
+.add-to-cart-btn {
+    color: #000000;
+    transform: translate(150px, -10px);
+    border-radius: 8px;
+}
+
+.light .add-to-cart-btn{
+    background-color: #000000dc;
+    color: #fff;
+}
+.dark .add-to-cart-btn{
+    background-color: #ffffffdc;
+    color: #000000;
+}
+
+.form-header{
+    border-radius: 7px;
+}
+
+.trendyol{
+    background-color: transparent;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.contactcss{
+    color: #000;
+}
+
+.footer-yazi{
+    color: #000;
+}
+
